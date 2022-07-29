@@ -13,3 +13,7 @@ Note that the files end with `.mjs` instead of `.js`. This is an unfortunate loc
 https://stackoverflow.com/questions/57492546/what-is-the-difference-between-js-and-mjs-files
 
 Note that the script tag in `index.html` includes `type='module'`
+
+Side note: there are lots of ways of using `import`
+
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Statements/import
